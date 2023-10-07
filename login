@@ -216,7 +216,7 @@
             </div>
             <div class="row">
                 <div style="margin-left: 450px; padding-top: 60px; font-weight: bold; padding-bottom: 30px;" class="col">
-                    <p>2021-2022 My Log Travels.All Rights Reserved</p>
+                    <p>2021-2022 My Log Travels.All Rights Reserved ,Make sure.: </p>
                 </div>
             </div>
         </section>
